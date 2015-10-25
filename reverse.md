@@ -1,6 +1,6 @@
 # Reverse geocoding
 
-Reverse geocoding is used for finding places or addresses near a latitude,longitude pair&mdashlike clicking on a map to see what's there when the map doesn't show it otherwise. For example, picture a map showing building outlines but no labels, then clicking on a building and being shown the name of the business. That's reverse geocoding.
+Reverse geocoding is used for finding places or addresses near a latitude, longitude pair&mdash;like clicking on a map to see what's there when the map doesn't show it otherwise. For example, picture a map showing building outlines but no labels, then clicking on a building and being shown the name of the business. That's reverse geocoding.
 
 With reverse geocoding with Mapzen Search, you can look up all sorts of information about points on a map, including:
 
